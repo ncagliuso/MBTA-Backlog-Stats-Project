@@ -58,4 +58,4 @@ This project produces multiple data visualzation pieces and most can be consider
 7. Histogram for entire set of Buyers with corresponding box plot below
 
 ![Example: #7](https://github.com/ncagliuso/MBTA-Backlog-Stats-Project/blob/master/Total%20Buyers%20Double%20Plot.png)
-![Example: #4]https://github.com/ncagliuso/MBTA-Backlog-Stats-Project/blob/master/Total%20Buyers%20Graph.png)
+![Example: #4](https://github.com/ncagliuso/MBTA-Backlog-Stats-Project/blob/master/Total%20Buyers%20Graph.png)
